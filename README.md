@@ -49,7 +49,7 @@ I'm a software developer with a strong passion for creating visually appealing a
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah-el-sawy&hide_progress=true) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah-el-sawy&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blacayo04&layout=compact)
 <br>
 <a href="https://komarev.com/ghpvc/?username=blacayo04&style=for-the-badge">
 <img src="https://komarev.com/ghpvc/?username=blacayo04&style=for-the-badge">
